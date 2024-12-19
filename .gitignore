@@ -1,0 +1,10 @@
+.*
+
+!.gitignore
+
+lab6/.*
+lab6/Debug
+lab6/Drivers
+lab6/*.ld
+lab6/*.launch
+lab6/Core/Startup
